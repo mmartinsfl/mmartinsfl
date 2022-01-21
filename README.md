@@ -1,12 +1,13 @@
 ### Olá, me chamo Matheus !
 
 ### Bem vindo ao meu perfil GitHub 👋 👽
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
 - ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 
-### Estou aprendendo
+- ### Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" />
 
@@ -24,4 +25,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ![Snake animation](https://github.com/mmartinsfl/mmartinsfl/blob/output/github-contribution-grid-snake.svg)
+  
