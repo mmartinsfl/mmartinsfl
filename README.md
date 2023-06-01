@@ -28,7 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinsfl)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=donut-vertical)](https://github.com/mmartinsfl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=donut-vertical)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmartinsfl&" alt="mmartinsfl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmartinsfl&show_icons=true&theme=radical" alt="mmartinsfl" /></p>
 
