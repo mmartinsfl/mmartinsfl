@@ -28,7 +28,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinsfl)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&locale=en" alt="mmartinsfl" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&theme=transparent)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmartinsfl&" alt="mmartinsfl" /></p>
 
