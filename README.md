@@ -26,9 +26,9 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
            </a> </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinsfl)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&theme=radical)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=donut-vertical)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=donut-vertical&show_icons=true&theme=radical)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmartinsfl&show_icons=true&theme=radical" alt="mmartinsfl" /></p>
 
