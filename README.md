@@ -1,5 +1,5 @@
 <h1 align="center">Olá | Hi 👋, I'm Matheus</h1>
-<h3 align="center">A passionate backend developer from Brazil !</h3>
+<h3 align="center">A passionate backend and BlockChain developer from Brazil !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmartinsfl&label=Profile%20views&color=0e75b6&style=flat" alt="mmartinsfl" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Java ATM Project**
 
-- 🌱 I’m currently learning **Spring | SpringBoot | React**
+- 🌱 I’m currently learning **Solidity | Smart Contracts  | React**
 
-- 💬 Ask me about **Java | Spring | SpringBoot**
+- 💬 Ask me about **Java | Spring | SpringBoot | Solidity **
 
 - 📫 How to reach me **finsmatheus@gmail.com**
 
