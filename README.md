@@ -26,7 +26,7 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
            </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmartinsfl&show_icons=true&locale=en&layout=compact" alt="mmartinsfl" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinsfl)](https://github.com/mmartinsfl/github-readme-stats&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&locale=en" alt="mmartinsfl" /></p>
 
