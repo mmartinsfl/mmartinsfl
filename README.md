@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmartinsfl&label=Profile%20views&color=0e75b6&style=flat" alt="mmartinsfl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmartinsfl" alt="mmartinsfl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmartinsfl&show_icons=true&theme=radical" alt="mmartinsfl" /></a> </p>
 
 - 🔭 I’m currently working on **Solidity Blockchain Project**
 
