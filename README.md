@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmartinsfl" alt="mmartinsfl" /></a> </p>
 
-- 🔭 I’m currently working on **Java ATM Project**
+- 🔭 I’m currently working on **Solidity Blockchain Project**
 
 - 🌱 I’m currently learning **Solidity | Smart Contracts  | React**
 
