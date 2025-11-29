@@ -1,15 +1,13 @@
 <h1 align="center">Olá | Hi 👋, I'm Matheus</h1>
-<h3 align="center">A passionate android developer from Brazil !</h3>
+<h3 align="center">A passionate full-stack developer from Brazil !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmartinsfl&label=Profile%20views&color=0e75b6&style=flat" alt="mmartinsfl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmartinsfl&show_icons=true&theme=radical" alt="mmartinsfl" /></a> </p>
 
-- 🔭 I’m currently working on **Solidity Blockchain Project**
+- 🔭 I’m currently working on **Multi NGO Plataform**
 
-- 🌱 I’m currently learning **Solidity | Smart Contracts  | React**
-
-- 💬 Ask me about **Java | Spring | SpringBoot | Solidity **
+- 💬 Ask me about **Java | Spring | SpringBoot | Solidity | React | Node | Next | Prisma | Postgres**
 
 - 📫 How to reach me **finsmatheus@gmail.com**
 
