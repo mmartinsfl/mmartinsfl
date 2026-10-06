@@ -14,7 +14,7 @@
 <h3>About me</h3>
 <ul>
   <li>I run <a href="https://devar.com.br"><b>Devar Software</b></a>, building web platforms, mobile apps, dashboards and automations for clients.</li>
-  <li>Currently working on <b>OkCred V2</b> and <b>Brumadinho 360 / Giro 360</b>.</li>
+  <li>Currently working on <b>OkCred V2</b> and <b>Giro 360</b>.</li>
   <li>Lately into AI integrations, payment integrations, web scraping and bots.</li>
   <li>Ask me about <b>Java, Spring Boot, TypeScript, React, React Native, Next.js, Node, Prisma, Postgres, Supabase and Solidity</b>.</li>
 </ul>
@@ -32,8 +32,8 @@
     <td>TanStack Start, React, shadcn/ui, Hono, Cloudflare Workers, Supabase, Zod, Vitest</td>
   </tr>
   <tr>
-    <td><b>Brumadinho 360 / Giro 360</b></td>
-    <td>Tourism platform for the city of Brumadinho (MG): admin dashboard, AI-generated itineraries, interactive maps with Waze/Maps navigation, GPS and QR Code check-ins, badges, XP and rankings.</td>
+    <td><b>Giro 360</b></td>
+    <td>Multi-tenant tourism platform for cities, each with its own branding, URL and plan (first city: Brumadinho, MG). Includes admin dashboard, AI-generated itineraries, interactive maps with Waze/Maps navigation, GPS and QR Code check-ins, badges, XP and rankings.</td>
     <td>React, Vite, Tailwind, Hono, Prisma, PostgreSQL, Better Auth, OpenAI, Vercel</td>
   </tr>
   <tr>
@@ -67,9 +67,8 @@
 
 <h3>GitHub stats</h3>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmartinsfl&theme=tokyonight" alt="GitHub contributions" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mmartinsfl&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=mmartinsfl&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
