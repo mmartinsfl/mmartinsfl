@@ -1,20 +1,75 @@
-<h1 align="center">Olá | Hi 👋, I'm Matheus</h1> <h3 align="center">Full-stack developer from Belo Horizonte, Brazil 🇧🇷 — founder of <a href="https://devar.com.br">Devar Software</a></h3> <p align="center"> <a href="https://linkedin.com/in/mmartinsfl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://instagram.com/mmartinsfl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:finsmatheus@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://devar.com.br"><img src="https://img.shields.io/badge/Devar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Devar" /></a> <img src="https://komarev.com/ghpvc/?username=mmartinsfl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /> </p>
-🙋 About me
-🏢 I run Devar Software, building web platforms, dashboards and automations for clients
-🔭 Currently working on OkCred V2, a credit-lookup SaaS gaining debtor registration and continuous monitoring, and Brumadinho 360 / Giro 360, a multi-tenant tourism platform with AI itineraries and gamification
-🤖 Lately I've been into AI integrations, web scraping/automation and bots
-📱 Building mobile apps too, with React Native + Expo
-💬 Ask me about Java · Spring Boot · TypeScript · React · React Native · Next.js · Node · Prisma · Postgres · Supabase · Solidity
-⚡ Fun fact: Java is not that difficult
-🚀 Recent work
-Project	What it is	Stack
-OkCred	SaaS for credit and CPF/CNPJ lookups that aggregates several data bureaus, with prepaid credits and plans, Asaas billing, multi-user accounts, PDF/XLSX reports and scheduled jobs (monthly invoicing, credit expiry, LGPD data retention). V2 in progress: debtor registration via the Boa Vista/SCPC API (single and bulk) and Me Proteja, continuous CNPJ monitoring with alerts on score, protests, lawsuits, Receita Federal status and partners	TanStack Start · React · shadcn/ui · Hono · Cloudflare Workers · Supabase · Zod · Vitest
-Brumadinho 360 / Giro 360	Tourism platform for the city of Brumadinho (MG): admin dashboard, AI-generated itineraries, interactive maps with Waze/Maps navigation, GPS & QR Code check-ins, badges, XP and rankings	React 19 · Vite · Tailwind · Hono · Prisma · PostgreSQL · Better Auth · OpenAI · Vitest · Vercel
-VEM donation platform	Multi-tenant SaaS for NGOs: NGO onboarding and approval, a public site per subdomain or custom domain, one-time and recurring donations via Asaas, an NGO admin panel and a master admin panel	Next.js 14 · React · Tailwind · Recharts · Express · Prisma · PostgreSQL · JWT · Zod · pnpm monorepo · Vercel
-Dinheirofy	Personal finance mobile app (iOS/Android/Web): Tinder-style swipe to review expenses, dashboard, history, balance evolution and future projections, onboarding and a premium plan	React Native · Expo Router · TypeScript · Supabase
-devar.com.br	My company's website: interactive 3D portfolio, live project demos, lead capture and a support portal	Next.js · TypeScript · Three.js · Prisma · PostgreSQL · Tailwind · Vercel
-Telegram live-match bot	Bot that monitors live football matches through API-Football, scores game pressure and sends real-time alerts, with browser automation and a web panel	Python · python-telegram-bot · Playwright · Flask · httpx
-🛠️ Languages & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,js,python,solidity&theme=dark" alt="Languages" /><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,nodejs,express,flask&theme=dark" alt="Frameworks" /><br/> <img src="https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,mongodb,docker,kubernetes,aws,cloudflare,vercel,linux,git&theme=dark" alt="Tools" /> </p>
-📊 GitHub stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=mmartinsfl&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" /> </p>
+<h1 align="center">Olá | Hi 👋, I'm Matheus</h1>
+<p align="center"><b>Full-stack developer from Belo Horizonte, Brazil · Founder of <a href="https://devar.com.br">Devar Software</a></b></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mmartinsfl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/mmartinsfl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:finsmatheus@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://devar.com.br"><img src="https://img.shields.io/badge/Devar-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Devar" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mmartinsfl&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+<hr />
+
+<h3>About me</h3>
+<ul>
+  <li>I run <a href="https://devar.com.br"><b>Devar Software</b></a>, building web platforms, mobile apps, dashboards and automations for clients.</li>
+  <li>Currently working on <b>OkCred V2</b> and <b>Brumadinho 360 / Giro 360</b>.</li>
+  <li>Lately into AI integrations, payment integrations, web scraping and bots.</li>
+  <li>Ask me about <b>Java, Spring Boot, TypeScript, React, React Native, Next.js, Node, Prisma, Postgres, Supabase and Solidity</b>.</li>
+</ul>
+
+<h3>Recent work</h3>
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Description</th>
+    <th align="left">Stack</th>
+  </tr>
+  <tr>
+    <td><b>OkCred</b></td>
+    <td>SaaS for credit and CPF/CNPJ lookups aggregating several data bureaus, with prepaid credits and plans, Asaas billing, multi-user accounts, PDF/XLSX reports and scheduled jobs. <b>V2 in progress:</b> debtor registration via the Boa Vista/SCPC API (single and bulk) and continuous CNPJ monitoring with alerts.</td>
+    <td>TanStack Start, React, shadcn/ui, Hono, Cloudflare Workers, Supabase, Zod, Vitest</td>
+  </tr>
+  <tr>
+    <td><b>Brumadinho 360 / Giro 360</b></td>
+    <td>Tourism platform for the city of Brumadinho (MG): admin dashboard, AI-generated itineraries, interactive maps with Waze/Maps navigation, GPS and QR Code check-ins, badges, XP and rankings.</td>
+    <td>React, Vite, Tailwind, Hono, Prisma, PostgreSQL, Better Auth, OpenAI, Vercel</td>
+  </tr>
+  <tr>
+    <td><b>VEM donation platform</b></td>
+    <td>Multi-tenant SaaS for NGOs: onboarding and approval, a public site per subdomain or custom domain, one-time and recurring donations via Asaas, NGO and master admin panels.</td>
+    <td>Next.js, React, Tailwind, Express, Prisma, PostgreSQL, JWT, pnpm monorepo</td>
+  </tr>
+  <tr>
+    <td><b>Dinheirofy</b></td>
+    <td>Personal finance app for iOS, Android and web: swipe-to-review expenses, dashboard, history, balance evolution, projections and a premium plan.</td>
+    <td>React Native, Expo Router, TypeScript, Supabase</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://devar.com.br">devar.com.br</a></b></td>
+    <td>My company's website: interactive 3D portfolio, live project demos, lead capture and a support portal.</td>
+    <td>Next.js, TypeScript, Three.js, Prisma, PostgreSQL, Tailwind</td>
+  </tr>
+  <tr>
+    <td><b>Live-match Telegram bot</b></td>
+    <td>Monitors live football matches through API-Football, scores game pressure and sends real-time alerts, with browser automation and a web panel.</td>
+    <td>Python, python-telegram-bot, Playwright, Flask</td>
+  </tr>
+</table>
+
+<h3>Languages and tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,js,python,solidity&theme=dark" alt="Languages" /><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,nodejs,express,flask&theme=dark" alt="Frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=prisma,postgres,supabase,mysql,mongodb,docker,kubernetes,aws,cloudflare,vercel,linux,git&theme=dark" alt="Tools" />
+</p>
+
+<h3>GitHub stats</h3>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mmartinsfl&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinsfl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mmartinsfl&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+</p>
